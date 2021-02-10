@@ -10,6 +10,8 @@ E-commerce shopping website.
 
 > Redux for client-side state managment.
 
+> Pay with Razorpay (Test mode only)
+
 ## Preview
 Visit site: https://redstorein.herokuapp.com/
 
