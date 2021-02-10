@@ -1,0 +1,58 @@
+{
+    "entity": "event",
+    "account_id": "acc_GSr3oM63pxpHRm",
+    "event": "payment.captured",
+    "contains": [
+        "payment"
+    ],
+    "payload": {
+        "payment": {
+            "entity": {
+                "id": "pay_GYIVrTshyw2rsW",
+                "entity": "payment",
+                "amount": 82600,
+                "currency": "INR",
+                "status": "captured",
+                "order_id": "order_GYIVQgMhiW74hD",
+                "invoice_id": null,
+                "international": false,
+                "method": "card",
+                "amount_refunded": 0,
+                "refund_status": null,
+                "captured": true,
+                "description": "Test Transaction...Okay",
+                "card_id": "card_GSt10XCKZqNIpV",
+                "card": {
+                    "id": "card_GSt10XCKZqNIpV",
+                    "entity": "card",
+                    "name": "Mayur",
+                    "last4": "1111",
+                    "network": "Visa",
+                    "type": "debit",
+                    "issuer": null,
+                    "international": false,
+                    "emi": false,
+                    "sub_type": "consumer"
+                },
+                "bank": null,
+                "wallet": null,
+                "vpa": null,
+                "email": "nick@gmail.com",
+                "contact": "+911234567890",
+                "notes": [],
+                "fee": 1652,
+                "tax": 0,
+                "error_code": null,
+                "error_description": null,
+                "error_source": null,
+                "error_step": null,
+                "error_reason": null,
+                "acquirer_data": {
+                    "auth_code": "690402"
+                },
+                "created_at": 1612616547
+            }
+        }
+    },
+    "created_at": 1612616552
+}

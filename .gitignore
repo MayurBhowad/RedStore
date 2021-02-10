@@ -1,0 +1,7 @@
+# node module
+/node_modules
+
+# config
+/config/keys_dev.js
+
+.env
