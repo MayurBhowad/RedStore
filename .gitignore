@@ -5,3 +5,4 @@
 /config/keys_dev.js
 
 .env
+/deploy
