@@ -4,7 +4,7 @@
   "description": "red store shopping store",
   "main": "app.js",
   "engines": {
-    "node": "14.x"
+    "node": "18.x"
   },
   "scripts": {
     "client-install": "npm install --prefix client",
